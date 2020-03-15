@@ -12,7 +12,7 @@
  chmod +X sockets121.pl
 ```
 
- - A sintaxe do script é ./sockets121.pl (IP), ex: ./sockets121.pl 192.168.10.10  
+ - A sintaxe do script é ./sockets121.pl (IP), **ex: ./sockets121.pl 192.168.10.10**  
   O processo leva cerca de 10 minutos,caso não apresente o login e senha execute novamente que aparecerá as informações:
 
  ```bash
