@@ -4,7 +4,7 @@
  https://seclists.org/fulldisclosure/2014/May/75  
 
 
- ## UTILIZAÇÃO
+ ## Utilização:
  - Dê permissão de executavel no arquivo sockets121.pl:  
  
  ```bash
