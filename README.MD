@@ -1,18 +1,20 @@
 # Autenticação Bypass do CS121 da GENEREX
- - Este procedimento foi feito com base do CL121BL,B e F da CM comandos na versão HynetOS 5.XX: ***
- 
- Os créditos são totalmente do JKMAC da seclists.org:***
- https://seclists.org/fulldisclosure/2014/May/75
+ - Este procedimento foi feito com base do CL121BL,B e F da CM comandos na versão HynetOS 5.XX:  
+ -  Os créditos são totalmente do JKMAC da seclists.org:  
+ -  
+ https://seclists.org/fulldisclosure/2014/May/75  
+
 
  ## UTILIZAÇÃO
- - Dê permissão de executavel no arquivo sockets121.pl:
+ - Dê permissão de executavel no arquivo sockets121.pl:  
+ 
  ```bash
 
  chmod +X sockets121.pl
 ```
 
- - A sintaxe do script é ./sockets121.pl (IP), ex: ./sockets121.pl 192.168.10.10
- O processo leva cerca de 10 minutos,caso não apresente o login e senha execute novamente que aparecerá as informações:
+ - A sintaxe do script é ./sockets121.pl (IP), ex: ./sockets121.pl 192.168.10.10  
+  O processo leva cerca de 10 minutos,caso não apresente o login e senha execute novamente que aparecerá as informações:
 
  ```bash
 
