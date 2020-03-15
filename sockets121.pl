@@ -16,7 +16,7 @@ $socket->send("show syspar");
 $socket->recv($inline, MAXBYTES);
 print "$inline\n";
 
-print "Searching login\n" ; 
+print "Localizando login ... \n" ; 
 $socket->send("start");
 $socket->recv($inline, MAXBYTES);
 $socket->send("cd /flash");
