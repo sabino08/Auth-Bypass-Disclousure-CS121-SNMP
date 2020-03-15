@@ -1,7 +1,6 @@
 # Autenticação Bypass do CS121 da GENEREX
  - Este procedimento foi feito com base do CL121BL,B e F da CM comandos na versão HynetOS 5.XX:  
  -  Os créditos são totalmente do JKMAC da seclists.org:  
- -  
  https://seclists.org/fulldisclosure/2014/May/75  
 
 
