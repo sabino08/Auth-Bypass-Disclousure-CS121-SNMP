@@ -33,7 +33,7 @@ DNS              : 0.0.0.0
 Port for tools   : 4000
 
 
-Procurando login ... 
+Localizando login ... 
 USER: admin, PASS: hg478wegzsu, ACCOUNT: none
 
 ```
