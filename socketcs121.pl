@@ -1,4 +1,5 @@
 #!/usr/bin/perl -w
+#usado para explorar o usuário e senha do CS121 BL,B e F nas versões HyNETOS na versão 5.XX
 use IO::Socket;      
 use constant MAXBYTES => scalar 1024;      
 
